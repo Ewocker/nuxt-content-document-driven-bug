@@ -1,0 +1,5 @@
+// ROLLUP_NO_REPLACE 
+ const _1_index = "{\"parsed\":{\"_path\":\"/\",\"_dir\":\"\",\"_draft\":false,\"_partial\":false,\"_locale\":\"\",\"_empty\":false,\"title\":\"Hello Nuxt Content\",\"description\":\"Welcome to Nuxt Content Hello World example.\",\"body\":{\"type\":\"root\",\"children\":[{\"type\":\"element\",\"tag\":\"h1\",\"props\":{\"id\":\"hello-nuxt-content\"},\"children\":[{\"type\":\"text\",\"value\":\"Hello Nuxt Content\"}]},{\"type\":\"element\",\"tag\":\"p\",\"props\":{},\"children\":[{\"type\":\"text\",\"value\":\"Welcome to Nuxt Content Hello World example.\"}]},{\"type\":\"element\",\"tag\":\"p\",\"props\":{},\"children\":[{\"type\":\"text\",\"value\":\"Checkout the \"},{\"type\":\"element\",\"tag\":\"a\",\"props\":{\"href\":\"/about\"},\"children\":[{\"type\":\"text\",\"value\":\"about page\"}]},{\"type\":\"text\",\"value\":\".\"}]}],\"toc\":{\"title\":\"\",\"searchDepth\":2,\"depth\":2,\"links\":[]}},\"_type\":\"markdown\",\"_id\":\"content:1.index.md\",\"_source\":\"content\",\"_file\":\"1.index.md\",\"_extension\":\"md\"},\"hash\":\"LGiFLahgCS\"}";
+
+export { _1_index as default };
+//# sourceMappingURL=1.index.mjs.map
